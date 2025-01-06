@@ -39,7 +39,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-public/images/product4.jpg
-public/images/product1.jpg
-public/images/product2.jpg
-public/images/product3.jpg
+
